@@ -19,6 +19,7 @@ Ensure you have the necessary libraries installed:
 
 ```bash
 pip install streamlit opencv-python-headless numpy pillow ultralytics moviepy
+```
 
 
 
@@ -26,7 +27,7 @@ pip install streamlit opencv-python-headless numpy pillow ultralytics moviepy
 ## Launch the Streamlit web app:
 ```bash
 streamlit run app.py
-
+```
 
 ## Upload Your Media
 You can upload an image (.jpeg, .jpg, .png) or a video (.mp4, .mov, .avi).
@@ -49,11 +50,11 @@ I am constantly testing larger model variants, such as YOLOv8m and YOLOv8l, to i
 ### Clone the Repository
 ```bash
 git clone https://github.com/PritiyaxShukla/LICENSE_PLATE_DETECTION.git
-
+```
 ## Install Required Libraries
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Download YOLO Weights
 Download the appropriate YOLOv8 weights from Ultralytics and place them in the project directory. For example:
