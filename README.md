@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ## Download YOLO Weights
 Download the appropriate YOLOv8 weights from Ultralytics and place them in the project directory. For example:
-**model = YOLO('yolov8n.pt')**  # Replace with yolov8m.pt for better accuracy
+```**model = YOLO('yolov8n.pt')**  # Replace with yolov8m.pt for better accuracy```
 
 
 ## Run the Streamlit App
